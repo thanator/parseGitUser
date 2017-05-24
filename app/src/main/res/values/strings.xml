@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitUserLoader</string>
+    <string name="name_usr">Name</string>
+</resources>
